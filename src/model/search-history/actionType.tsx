@@ -1,0 +1,10 @@
+// 初始化
+export const SAVE_SEARCH_HISTORY = 'SAVE_SEARCH_HISTORY';
+
+// 保存搜索历史
+
+export const ADD_SEARCH_HISTORY = 'ADD_SEARCH_HISTORY';
+
+// 清空历史
+
+export const CLEAR_SEARCH_HISTORY = 'CLEAR_SEARCH_HISTORY';
